@@ -1,0 +1,16 @@
+{
+  "name": "nail-copy",
+  "version": "0.0.0",
+  "description": "Copy folder contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Henry",
+  "repository": "git@github.com:johnhenry/nail-copy.git",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-register": "^6.3.13"
+  }
+}
