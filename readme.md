@@ -6,5 +6,5 @@ See [John Henry's Hammer](https://github.com/johnhenry/john-henrys-hammer/blob/m
 
 ##Options
 
- -  source - source folder
- -  destination - destination folder
+ -  source - source folder/file or array of folders and files to copy.
+ -  destination - destination folder within output directory. Defaults to the directory itself.
